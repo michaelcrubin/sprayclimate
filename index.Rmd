@@ -2,7 +2,7 @@
 title: "Clima de Pulverização no Brasil"
 subtitle: "Desenvolvido para a Metos Academy"
 author: "Michael C Rubin - Drawdown Labs"
-date: "`r Sys.Date()`"
+date: "2018-07-01"
 
 output:
   rmdformats::downcute:
