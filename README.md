@@ -50,4 +50,4 @@ Once the code is running, you can use the following steps to navigate through th
 By examining the agronomic spraying climate in Brazil through the lens of air temperature and relative humidity, this project aims to enhance knowledge and awareness regarding optimal conditions for effective spraying practices. The combination of data collection, analysis, and visualization provides valuable insights for agronomists, researchers, and anyone interested in the field of agriculture.
 
 For any inquiries or further information, please contact the author michael@aliacon.com.br
-
+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
