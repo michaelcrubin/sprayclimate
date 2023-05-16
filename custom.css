@@ -1,0 +1,105 @@
+/* styles downcute for Drawdown labs HTML template*/
+
+/* Style Drawdown labs
+#2C5890 Dark Blue
+#4E7CC9 Light Blue
+#4CB258 Light Green
+#487B44 Dark Green
+#FFBC00 Yellow
+#B80000 Red
+#3B3838 Black grey
+
+*/
+
+#main .nav-pills > li.active > a,
+#main .nav-pills > li.active > a:hover,
+#main .nav-pills > li.active > a:focus {
+
+}
+
+#main .nav-pills > li > a:hover {
+
+}
+
+h1 legend{
+    color: #4E7CC9;
+}
+
+h1 {
+    color: #4E7CC9;
+}
+
+
+h2 legend{
+
+}
+
+h2 {
+
+}
+
+.Content p.authors {
+  color: #4CB258;
+  font-size: 18px;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  opacity: 0.9;
+  
+}
+
+.Content p.date {
+  color: #4CB258;
+  font-size: 18px;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  opacity: 0.9;
+  
+}
+
+.Content p.date span, .Content p.authors span {
+  color: #4CB258;
+  font-size: 18px;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  opacity: 0.9;
+  
+}
+
+h3,h4,h5,h6,legend{
+
+}
+
+#nav-top span.glyphicon {
+
+}
+
+
+#table-of-contents header{
+
+}
+
+#table-of-contents h2{
+
+}
+
+#main a {
+
+}
+
+a:hover{
+
+}
+
+a:visited{
+
+}
+
+
+.Sidebar {
+    position: fixed;
+    bottom: 0;
+    z-index: 9;
+    overflow-y: auto;
+    padding: 100px 0 30px;
+    word-break: break-word;
+}
