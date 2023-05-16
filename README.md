@@ -4,13 +4,13 @@ This project aims to analyze the climatic conditions for agronomic spraying in B
 
 ## Documentation Access
 
-### This Project:\
-[Agronomic Spraying Climate](https://michaelcrubin.github.io/documentations/spray_climate.html){target="_blank"}\
+### This Project:
+[Agronomic Spraying Climate](https://michaelcrubin.github.io/documentations/spray_climate.html)
 
-### Other Projects:\
-[Interpolation Study](https://michaelcrubin.github.io/documentations/interpolation_study.html){target="_blank"}\
-[Hypothesis Testing Climate](https://michaelcrubin.github.io/documentations/hypothesis_testing_climate.html){target="_blank"}\
-[Greedy Optimization](https://michaelcrubin.github.io/documentations/greedy_optimization.html){target="_blank"}\
+### Other Projects:
+- [Interpolation Study](https://michaelcrubin.github.io/documentations/interpolation_study.html)
+- [Hypothesis Testing Climate](https://michaelcrubin.github.io/documentations/hypothesis_testing_climate.html)
+- [Greedy Optimization](https://michaelcrubin.github.io/documentations/greedy_optimization.html)
 
 
 
